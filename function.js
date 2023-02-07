@@ -12,7 +12,7 @@ function factorial(n){
         result = result * n;
         
     }
-    return result;
+    return result
 }
 
 factorial(4)
